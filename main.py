@@ -7,8 +7,8 @@ import tkinter as tk
 from tkinter import filedialog, Scrollbar, Canvas, Frame
 
 # Chaves e URLs da API
-subscription_key = '6eZi825I9Re3BG66v541jXtiUnweH8fGNTE7KNqj5er6RYPHW80MJQQJ99ALACZoyfiXJ3w3AAAFACOGZ8AT'
-analyze_url = 'https://felipesegundodealexandremonteiro.cognitiveservices.azure.com/vision/v3.2/read/analyze'
+subscription_key = 'SUA_API_DE_USUARIO_AZURE'
+analyze_url = 'SUA_URL_API'
 
 # Função para converter imagem para JPEG
 def convert_to_jpeg(image):
